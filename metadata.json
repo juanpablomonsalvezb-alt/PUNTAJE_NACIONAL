@@ -1,0 +1,5 @@
+{
+  "name": "Puntaje Nacional Clone",
+  "description": "A replica of the Puntaje Nacional educational platform dashboard and programs page using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
